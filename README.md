@@ -26,7 +26,7 @@ Note:- To ignore a file or folder add its name to .gitignore file
 
 To check the git status
 ```
-git staus
+git status
 ```
 To check all versions maintained by git
 ```
@@ -36,5 +36,14 @@ To  create version / commit all changes by git
 ```
 git commit -m "message"
 ```
+To push version/changes to github
+```
+git push origin main
+```
+To check remote url
+```
+git remote -v
+```
+
 
 
